@@ -1,0 +1,7 @@
+*.log
+*.tmp
+.env
+*.key
+*.pem
+wazuh-install-files.tar
+__pycache__/
